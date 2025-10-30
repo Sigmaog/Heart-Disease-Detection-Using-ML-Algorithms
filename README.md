@@ -78,6 +78,12 @@ The goal of this project is to:
 
 ## 🧠 How to Use
 
-### 1️⃣ Install dependencies
-```bash
-pip install -r requirements.txt
+Heart-Disease-Prediction/
+│
+├── Heart Disease.ipynb         # Jupyter Notebook containing data preprocessing, EDA, training & evaluation
+├── best_heart_model.joblib     # Final trained ML model (Pipeline-based)
+├── heart.csv                   # Dataset used for model training
+├── README.md                   # Project documentation file (this file)
+
+
+
