@@ -96,6 +96,5 @@ This repository is organized as follows:
 #### 🖊️Author: Muhammad Anique       
 📧 **Email:** aniquee.ai@gmail.com
 
-
 🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
 
