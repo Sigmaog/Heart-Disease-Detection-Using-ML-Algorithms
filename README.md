@@ -76,16 +76,23 @@ The goal of this project is to:
 
 ---
 
-## Repository Structure 
+## 📂 Repository Structure 
 
 ### Heart-Disease-Prediction/
-│
-├── Heart Disease.ipynb         # Jupyter Notebook containing data preprocessing, EDA, training & evaluation
-├── best_heart_model.joblib     # Final trained ML model (Pipeline-based)
-├── heart.csv                   # Dataset used for model training
-├── README.md                   # Project documentation file (this file) |
+
+This repository is organized as follows:
+
+**Heart Disease.ipynb** — Main Jupyter Notebook containing the complete end-to-end workflow including data preprocessing, visualization (EDA), feature selection, model training, and performance evaluation.
+
+**best_heart_model.joblib** — The trained RandomForest classification model saved using Joblib. It includes the preprocessing pipeline and can be directly loaded for predictions without retraining.
+
+**heart.csv** — The dataset used for training and evaluation. It contains patient information such as age, cholesterol, blood pressure, and target labels indicating heart disease presence.
+
+
+**README.md** — Project documentation (this file) explaining the model, dataset, setup, and usage instructions.
 
 ## 🤝 Let's Connect
+🖊️ **Author** Muhammad Anique Shafqat 
 📧 **Email:** aniquee.ai@gmail.com  
 🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
 
