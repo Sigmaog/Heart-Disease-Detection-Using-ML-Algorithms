@@ -1,4 +1,4 @@
-# 💓 Heart Disease Classification using Machine Learning
+#  Heart Disease Classification using Machine Learning
 
 This project focuses on building and evaluating multiple machine learning models to **predict the presence of heart disease** based on patient health data.  
 The dataset used is the classic **UCI Heart Disease dataset**, containing 303 patient records and 14 attributes.
@@ -93,7 +93,6 @@ This repository is organized as follows:
 
 
 ## 🤝 Let's Connect
-🖊️ **Author** Muhammad Anique Shafqat 
-📧 **Email:** aniquee.ai@gmail.com  
-🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
+🖊️ **Author** Muhammad Anique 
+📧 **Email:** aniquee.ai@gmail.com  🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
 
