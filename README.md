@@ -94,5 +94,5 @@ This repository is organized as follows:
 
 ## 🤝 Let's Connect
 🖊️ **Author** Muhammad Anique       
-📧 **Email:** aniquee.ai@gmail.com  🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
+📧 **Email:** aniquee.ai@gmail.com   🌍 **GitHub:** [github.com/Sigmaog](https://github.com/Sigmaog)
 
