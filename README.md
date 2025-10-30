@@ -84,12 +84,13 @@ This repository is organized as follows:
 
 **Heart Disease.ipynb** — Main Jupyter Notebook containing the complete end-to-end workflow including data preprocessing, visualization (EDA), feature selection, model training, and performance evaluation.
 
+**README.md** — Project documentation (this file) explaining the model, dataset, setup, and usage instructions.
+
 **best_heart_model.joblib** — The trained RandomForest classification model saved using Joblib. It includes the preprocessing pipeline and can be directly loaded for predictions without retraining.
 
 **heart.csv** — The dataset used for training and evaluation. It contains patient information such as age, cholesterol, blood pressure, and target labels indicating heart disease presence.
 
 
-**README.md** — Project documentation (this file) explaining the model, dataset, setup, and usage instructions.
 
 ## 🤝 Let's Connect
 🖊️ **Author** Muhammad Anique Shafqat 
